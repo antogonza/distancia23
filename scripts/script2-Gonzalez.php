@@ -19,6 +19,7 @@ class Calculadora
      * @param float $num2 El segundo número a sumar.
      * @return float La suma de los dos números.
      * @since 1.0
+     * @version 2.0
      */
     public function sumar($num1, $num2)
     {
